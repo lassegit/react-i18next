@@ -9,11 +9,6 @@ const resources = {
   en: {
     translation: en,
   },
-  // fr: {
-  //   translation: {
-  //     'Welcome to React': 'Bienvenue à React et react-i18next',
-  //   },
-  // },
 };
 
 i18n
