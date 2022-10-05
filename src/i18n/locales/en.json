@@ -1,0 +1,10 @@
+{
+  "frontpage": {
+    "title": "Edit <0>src/App.tsx</0> and save to reload.",
+    "learn": "Learn React"
+  },
+  "footer": {
+    "title": "Footer title",
+    "copyright": "Copyright"
+  }
+}
