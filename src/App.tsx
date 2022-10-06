@@ -13,6 +13,7 @@ function App() {
         <p>
           <Trans i18nKey="frontpage.title" t={t} components={[<code />]} />
         </p>
+        <p>{t('frontpage.subTitle')}</p>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
           {t('frontpage.learn')}
         </a>
