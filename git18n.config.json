@@ -1,5 +1,5 @@
 {
   "defaultLocale": "en",
-  "path": "src/i18n/locales/",
-  "localePath": "src/i18n/locales/"
+  "path": "src/i18n/locales",
+  "localePath": "src/i18n/locales"
 }
