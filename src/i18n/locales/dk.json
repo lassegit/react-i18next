@@ -2,5 +2,9 @@
   "frontpage": {
     "title": "Rediger <0>src/App.tsx</0> og gem for at reloade.",
     "learn": "Lær React"
+  },
+  "footer": {
+    "title2": "Footer title in DK",
+    "copyright2": "Copyright DK"
   }
 }
