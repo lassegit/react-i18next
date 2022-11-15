@@ -1,6 +1,7 @@
 {
   "frontpage": {
     "title": "Rediger <0>src/App.tsx</0> og gem for at reloade.",
+    "subTitle": "Du kan også kigge på kildekoden.",
     "learn": "Lær React"
   }
 }
