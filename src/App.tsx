@@ -1,11 +1,19 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+<<<<<<< HEAD
 import { useTranslation } from 'react-i18next';
 import { Trans } from 'react-i18next';
 
 function App() {
   const { t } = useTranslation();
+=======
+import { useTranslation, Trans } from 'react-i18next';
+
+function App() {
+  const { t } = useTranslation();
+
+>>>>>>> master
   return (
     <div className="App">
       <header className="App-header">
