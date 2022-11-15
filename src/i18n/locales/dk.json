@@ -1,4 +1,6 @@
 {
-  "frontpage.title": "Rediger <0>src/App.tsx</0> og gem for at reloade",
-  "frontpage.learn": "Lær React!"
+  "frontpage": {
+    "title": "Rediger <0>src/App.tsx</0> og gem for at reloade.",
+    "learn": "Lær React"
+  }
 }
