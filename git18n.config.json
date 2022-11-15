@@ -1,5 +1,5 @@
 {
   "defaultLocale": "en",
   "path": "src/i18n/locales/*.json",
-  "locales": ["en", "de", "dk"]
+  "locales": ["en", "de", "dk", "sv", "de_at"]
 }
