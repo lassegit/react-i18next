@@ -17,6 +17,10 @@ function App() {
           {t('frontpage.learn')}
         </a>
       </header>
+      <footer>
+        <p>{t('footer.title')}</p>
+        <p>{t('footer.copyright')}</p>
+      </footer>
     </div>
   );
 }
